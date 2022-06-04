@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
-
-Organize your courses by years, topics, or universities, however you like!
+I was a teaching assistant for the following courses:
+<ul>
+	<li>CS 6501 Natural Language Processing, Fall 2021, UVa</li>
+	<li>CS 6316 Machine Learning, Spring 2022, UVa</li>
+	<li>CS 6501 Interpretable Machine Learning, Spring 2022, UVa</li>
+</ul>
