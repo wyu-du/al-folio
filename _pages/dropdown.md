@@ -7,7 +7,14 @@ dropdown: false
 permalink: /services/
 ---
 
-#### Invited Talk
+#### Teaching Assistant
+<ol>
+  <li>CS 6501 Natural Language Processing, Fall 2021, UVa</li>
+  <li>CS 6316 Machine Learning, Spring 2022, UVa</li>
+  <li>CS 6501 Interpretable Machine Learning, Spring 2022, UVa</li>
+</ol>
+
+#### Invited Talks
 <ol>
   <li>An Empirical Comparison on Imitation Learning and Reinforcement Learning for Paraphrase Generation, <a href='https://uvaml.github.io/' target='_blank'>UVa Artificial Intelligence and Machine Learning Seminar</a>.
   </li>
