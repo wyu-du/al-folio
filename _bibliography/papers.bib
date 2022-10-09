@@ -1,6 +1,48 @@
 ---
 ---
 
+@article{du-etal-2022-sa2,
+  abbr={Findings},
+  bibtex_show={true},
+  title={Self-training with Two-phase Self-augmentation for Few-shot Dialogue Generation},
+  author={Du, Wanyu and Chen, Hanjie and Ji, Yangfeng},
+  abstract ={In task-oriented dialogue systems, response generation from meaning representations (MRs) often suffers from limited training examples, due to the high cost on annotating MR-to-Text pairs. Previous works on self-training leverage fine-tuned conversational models to automatically generate pseudo-labeled MR-to-Text pairs for further fine-tuning. However, some self-augmented data may be noisy or uninformative for the model to learn from. In this work, we propose a two-phase self-augmentation procedure to generate high-quality pseudo-labeled MR-to-Text pairs: the first phase selects the most informative MRs based on model's prediction uncertainty; with the selected MRs, the second phase generates accurate responses by aggregating multiple perturbed latent representations from each MR. Empirical experiments on two benchmark datasets, FewShotWOZ and FewShotSGD, show that our method generally outperforms existing self-training methods on both automatic and human evaluations.},
+  journal={Findings of the Association for Computational Linguistics: EMNLP 2022},
+  year={2022},
+  month={Dec},
+  publisher={Association for Computational Linguistics},
+  url={https://arxiv.org/abs/2205.09661},
+  html={https://arxiv.org/abs/2205.09661}
+}
+
+@article{zhao-etal-2022-floweval,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={FlowEval: A Consensus-Based Dialogue Evaluation Framework Using Segment Act Flows},
+  author={Zhao, Jianqiao and Li, Yanyang and Du, Wanyu and Ji, Yangfeng and Yu, Dong and Lyu, Michael R. and Wang, Liwei},
+  journal={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year={2022},
+  month={Dec},
+  publisher={Association for Computational Linguistics},
+  url={https://arxiv.org/abs/2202.06633},
+  html={https://arxiv.org/abs/2202.06633},
+  abstract={Despite recent progress in open-domain dialogue evaluation, how to develop automatic metrics remains an open problem. We explore the potential of dialogue evaluation featuring dialog act information, which was hardly explicitly modeled in previous methods. However, defined at the utterance level in general, dialog act is of coarse granularity, as an utterance can contain multiple segments possessing different functions. Hence, we propose segment act, an extension of dialog act from utterance level to segment level, and crowdsource a large-scale dataset for it. To utilize segment act flows, sequences of segment acts, for evaluation, we develop the first consensus-based dialogue evaluation framework, FlowEval. This framework provides a reference-free approach for dialog evaluation by finding pseudo-references. Extensive experiments against strong baselines on three benchmark datasets demonstrate the effectiveness and other desirable characteristics of our FlowEval, pointing out a potential path for better dialogue evaluation.}
+}
+
+@article{kim-etal-2022-improving-iterative,
+  abbr={EMNLP},
+  bibtex_show={true},
+  title={Improving Iterative Text Revision by Learning Where to Edit from Other Revision Tasks},
+  author={Kim, Zae Myung and Du, Wanyu and Raheja, Vipul and Kumar, Dhruv and Kang, Dongyeop},
+  journal={Proceedings of the 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022)},
+  year={2022},
+  month={Dec},
+  url={https://aclanthology.org/},
+  html={https://aclanthology.org/},
+  publisher={Association for Computational Linguistics},
+  abstract ={Iterative text revision improves text quality by fixing grammatical errors, rephrasing for better readability or contextual appropriateness, or reorganizing sentence structures throughout a document. Most recent research has focused on understanding and classifying different types of edits in the iterative revision process from human-written text instead of building accurate and robust systems for iterative text revision. In this work, we aim to build an end-to-end text revision system that can iteratively generate helpful edits by explicitly detecting editable spans (where-to-edit) with their corresponding edit intents and then instructing a revision model to revise the detected edit spans. Leveraging datasets from other related text editing NLP tasks, combined with the specification of editable spans, leads our system to more accurately model the process of iterative text refinement, as evidenced by empirical results and human evaluations. Our system significantly outperforms previous baselines on our text revision tasks and other standard text revision tasks, including grammatical error correction, text simplification, sentence fusion, and style transfer. Through extensive qualitative and quantitative analysis, we make vital connections between edit intentions and writing quality, and better computational modeling of iterative text revisions.},
+}
+
 @article{du-etal-2022-understanding-iterative,
   abbr={ACL},
   bibtex_show={true},
