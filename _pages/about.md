@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a final-year Ph.D. candidate in [Computer Science at University of Virginia](https://engineering.virginia.edu/departments/computer-science). I am advised by Professor [Yangfeng Ji](http://yangfengji.net/) in the [UVA ILP Lab](https://uvanlp.org/).
 
-My research interest is natural language generation (NLG) and reinforcement learning (RL). My research focuses include controllable text generation, data-efficient NLG methods, interactive and iterative text generation, and reinforcement learning for text generation.
+My research interest is natural language generation (NLG) and reinforcement learning (RL). My research focuses include controllable and data-efficient text generation, language model alignment (e.g. instruction-tuning, reinforcement learning with human preferences), and interactive text generation (e.g. human-in-the-loop text revision).
 
 In the summaer of 2023, I was managed by [Song Feng](https://songfeng.github.io/) as an applied scientist intern at [AWS AI](https://aws.amazon.com/lex/), where I worked on prompt-based controllable text generation for dialogue flow simulation.
 In the summer of 2021, I was managed by [Vipul Raheja](https://www.linkedin.com/in/vipulraheja) and [Dongyeop Kang](https://dykang.github.io/) as a NLP research intern at [Grammarly](https://www.grammarly.com/about), where I worked on iterative and interactive text revision tasks.
