@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-#### Applied Scientist Intern, Amazon AWS AI, 2023
+#### Applied Scientist Intern, Amazon Web Services (AWS) AI, 2023
 **Manager**: [Song Feng](https://songfeng.github.io/), **Mentor**: [James Gung](https://jgung.github.io/about/), **Advisors**: [Yi Zhang](https://www.amazon.science/author/yi-zhang) and [Saab Mansour](https://www.amazon.science/author/saab-mansour)
 <ul>
 	<li>Developed a prompt-based controllable text generation method to simulate diverse dialogue flows.</li>
