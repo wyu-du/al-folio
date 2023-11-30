@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-06 10:00:00-0000
+date: 2022-10-12 10:02:00-0000
 inline: true
 ---
 
-Our paper on [iterative text revision](https://github.com/vipulraheja/iterater) was accepted by EMNLP 2022.
+🎙 New paper "Self-training with Two-phase Self-augmentation for Few-shot Dialogue Generation" is out. [[Paper](https://aclanthology.org/2022.findings-emnlp.201/)][[Code](https://github.com/wyu-du/Self-Training-Dialogue-Generation)]

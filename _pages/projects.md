@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: A collection of my previous NLP projects.
 nav: true
-nav_order: 2
+nav_order: 3
 #display_categories: [work, fun]
 horizontal: false
 ---

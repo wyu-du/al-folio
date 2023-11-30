@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-10-06 10:02:00-0000
+date: 2023-05-21 10:02:00-0000
 inline: true
 ---
 
-Our paper on [few-shot dialogue generation](https://arxiv.org/abs/2205.09661) was accepted by EMNLP 2022 (Findings).
+🗽 Start my applied scientist internship at [AWS AI](https://aws.amazon.com/lex/).
