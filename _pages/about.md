@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.virginia.edu/'>University of Virginia</a>. Computer Science Department.
+subtitle: #<a href='https://www.virginia.edu/'>University of Virginia</a>. Computer Science Department.
 
 profile:
   align: right
@@ -29,4 +29,4 @@ My research primarily focuses on developing controllable human-AI collaborative 
 In the past, I was fortunate to work with many amazing NLP researchers.
 I have worked with [Song Feng](https://songfeng.github.io/), [James Gung](https://jgung.github.io/about/), [Yi Zhang](https://www.amazon.science/author/yi-zhang) and [Saab Mansour](https://www.amazon.science/author/saab-mansour) at AWS AI, [Vipul Raheja](https://www.linkedin.com/in/vipulraheja) and [Dongyeop Kang](https://dykang.github.io/) at Grammarly, and [Liwei Wang](https://lwwangcse.github.io/) at Tencent AI Lab.
 
-<span style=' font-weight: 500;'> 📣 I am actively looking for research scientist/applied scientist jobs, please drop an email to me (wd5jq@virginia.edu) if you are interested!</span>
+<span style=' font-weight: 500;'> 📣 I am on the job market this year, please drop an email to me (wd5jq@virginia.edu) if you are interested!</span>
