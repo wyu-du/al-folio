@@ -4,4 +4,4 @@ date: 2022-10-30 10:02:00-0000
 inline: true
 ---
 
-🌟 3 papers accepted at EMNLP.
+🌟 3 papers accepted to EMNLP.
