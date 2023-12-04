@@ -22,7 +22,7 @@ My research primarily focuses on developing controllable human-AI collaborative 
 <ul>
   <li><b>Modeling User Intentions</b>: designing user intention taxonomy to interpret user goals in various contexts (<a href='https://aclanthology.org/2022.acl-long.250/'>ACL2022</a>, <a href='https://aclanthology.org/2022.emnlp-main.715/'>EMNLP2022</a>). </li>
   <li><b>Controlling Text Generation</b>: controlling the generation of LLMs through fine-tuning parameter-efficient modules (<a href='https://aclanthology.org/2021.findings-emnlp.188/'>EMNLP2021</a>), modeling variational context variables (<a href='https://arxiv.org/abs/2204.01227'>SPNLP2022</a>), and reinforcement learning (<a href='https://aclanthology.org/D19-1619/'>EMNLP2019</a>, <a href='https://arxiv.org/abs/2311.00953'>2023</a>).</li>
-  <li><b>Reducing Annotation Cost</b>: utilizing LLMs for data annotation and selection in domain-specific tasks (<a href='https://aclanthology.org/2022.findings-emnlp.201/'>EMNLP2022</a>).</li>
+  <li><b>Reducing Annotation Cost</b>: utilizing LLMs for data annotation and selection in domain-specific tasks, e.g., task-oriented dialogue generation (<a href='https://aclanthology.org/2022.findings-emnlp.201/'>EMNLP2022</a>).</li>
 </ul> 
 
 
